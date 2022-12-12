@@ -1,0 +1,258 @@
+
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+.header{
+    height: 150px;
+    background-color: red;
+    display: flex;
+    align-items: center;  
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 400px;   
+}
+
+h1.t{
+    color: white;
+    margin-left: 400px;
+   
+}
+.main{
+    height: 680px;
+    background-image: url(./img/15.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+h2{
+    margin: 0;
+    color: white;
+    padding-top: 50px;
+    font-size: xx-large;
+    margin-left: 500px;
+
+    
+
+}
+.mcdo{
+    width: 12%;
+    height: 30%;
+    margin-top: 100px;
+    margin-left: 350px;
+   
+}
+.coca{
+    width: 20%;
+    height: 30%;
+    margin-left: 50px;
+}
+.voiture{
+    width: 12%;
+    height: 30%;
+    margin-left: 50px;
+    
+}
+input.head{
+    background-color: green;
+    color: white;
+    display: flex;
+    margin-left: 550px;
+    margin-top: 100px;
+    width: 330px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.anonces{
+    height: 140vh;
+    
+}
+.anonce1{
+    display: flex;
+
+}
+.anonces2{
+    display: flex;
+}
+h3{
+    margin: 0;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: xx-large;
+
+}
+.nouveau{
+    height: 400px;
+    width: 300px;
+    border: 1px solid gray;
+    margin-left: 130px;
+    margin-top: 120px;
+    border-radius: 5px;
+
+}
+.croix{
+    height: 250px;
+    width: 300px;
+}
+h4{
+    margin: 0;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+p{
+    margin-left: 5px;
+    text-align: center;
+}
+input.ajouter{
+    background-color: green;
+    color:white;
+    margin-left: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+input.details{
+    background-color: green;
+    color:white;
+    margin-left: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+h4.netflix{
+    margin-left: 120px;
+    margin-top: 5px;
+}
+h4.john{
+    margin-left: 110px;
+    margin-top: 5px;
+}
+
+h4.deezer{
+    margin-left: 120px;
+}
+h4.mc{
+    margin-left: 100px;
+}
+h4.jante{
+    margin-left: 100px;
+}
+.stat{
+    
+    height: 100vh;
+    background-color: rgb(197, 194, 194);
+}
+.rectangle{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 130px;
+}
+.dix{
+    height: 400px;
+    width: 300px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-left: 0px;
+    border-radius: 5px;
+
+}
+.di{
+    height: 400px;
+    width: 300px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-left: 130px;
+    border-radius: 5px;
+
+}
+.d{
+    height: 400px;
+    width: 300px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-left: 130px;
+    border-radius: 5px;
+
+}
+h5{
+    font-size: 60px;
+    margin: 0;
+    margin-top: 150px;
+    text-align: center;
+}
+p.G{
+    margin: 0;
+    padding: 0;
+}
+h6{
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+}
+.footer{
+    height: 70vh;
+}
+.dac{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+img.mos{
+    height: 100px;
+    width: 200px;
+    margin-left: 30px;
+}
+img.edf{
+    height: 100px;
+    width: 200px;
+    margin-left: 30px;
+}
+p.q{
+    font-size: 30px;
+    margin-left: 30px;
+    color:rgb(164, 163, 163);
+}
+.last{
+    display: flex;
+}
+p.p{
+    font-size: 30px;
+    margin-left: 30px;
+    color:rgb(164, 163, 163);
+    margin-left: 200px;
+}
+p.z{
+    font-size: 30px;
+    margin-left: 30px;
+    color:rgb(164, 163, 163);
+    margin-left: 30px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.reseaux{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 50px;
+}
+p.w{
+    margin-top: 90px;
+}
